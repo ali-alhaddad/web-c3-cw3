@@ -1,0 +1,17 @@
+#color {
+  color: blue;
+  background-color: rgb(255, 0, 0);
+}
+@import url("https://fonts.googleapis.com/css2?family=Amiri&family=Smooch+Sans:wght@100&display=swap");
+
+h1 {
+  font-family: "El Messiri", sans-serif;
+}
+.text-color {
+  color: cyan;
+  background-color: rgb(174, 0, 255);
+  text-align: right;
+}
+.center {
+  text-align: center;
+}
